@@ -1,0 +1,17 @@
+.entry-content blockquote, .entry-content q {
+	  background:#EDEDED;
+		font-family: Roboto, sans-serif;
+    display: block;
+	  font-style: italic;
+		color: #555555;
+    color: #7b7b7b;
+    font-size: 1em;
+    line-height: 1.4em;
+    padding-left: 5px;
+		padding-top: 15px;	
+		padding-bottom: 1px;	
+		padding-right 10px;
+    border-style: solid;
+    border-color: #2c775b;
+    border-left-width: 7px;
+}
